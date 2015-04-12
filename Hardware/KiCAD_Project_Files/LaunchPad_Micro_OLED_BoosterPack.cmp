@@ -1,0 +1,31 @@
+Cmp-Mod V01 Created by CvPcb (2013-09-13 BZR 4316)-product date = 4/11/2015 6:50:45 PM
+
+BeginCmp
+TimeStamp = /5529967A;
+Reference = J1;
+ValeurCmp = 1x10-PIN HEADER;
+IdModule  = HEADER_F_1.27MM_1R10P_ST_AU_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /5529969B;
+Reference = J2;
+ValeurCmp = 1x10-PIN HEADER;
+IdModule  = HEADER_F_1.27MM_1R10P_ST_AU_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /552996E0;
+Reference = J3;
+ValeurCmp = 1x8-PIN HEADER;
+IdModule  = HEADER_M_2.54MM_1R8P_ST_AU_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /552996F2;
+Reference = J4;
+ValeurCmp = 1x8-PIN HEADER;
+IdModule  = HEADER_M_2.54MM_1R8P_ST_AU_PTH;
+EndCmp
+
+EndListe
